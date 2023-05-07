@@ -50,7 +50,7 @@ class _RestaurantState extends State<Restaurant> {
                   borderRadius: BorderRadius.circular(10),
                   child: Image.asset(
                     widget.image,
-                    height: height * 0.192,
+                    height: height * 0.185,
                     width: double.infinity,
                     fit: BoxFit.cover,
                   ),
