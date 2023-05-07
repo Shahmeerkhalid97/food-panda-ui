@@ -73,7 +73,7 @@ class DiscountsAndShops extends StatelessWidget {
                     color: const Color(0xffef9fc4),
                     borderRadius: BorderRadius.circular(10),
                     image: const DecorationImage(
-                      fit: BoxFit.fitWidth,
+                      fit: BoxFit.cover,
                       image: AssetImage(
                         'assets/images/food.jpg',
                       ),
